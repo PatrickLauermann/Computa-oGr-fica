@@ -78,6 +78,8 @@ Modelo de reconhecimento de faces: **haarcascade_frontalface_alt**.
 
 ![Processamento2](https://user-images.githubusercontent.com/39313943/101228827-1ae51f00-367c-11eb-91ab-056e2bfe1f5f.png)
 
+**Detecção de Bordas**
+
 ![Processamento3](https://user-images.githubusercontent.com/39313943/101228800-f5f0ac00-367b-11eb-8633-3cf81b172ac0.png)
 
 **Mudanças de Cores**
