@@ -59,3 +59,30 @@ Modelo de reconhecimento de faces **haarcascade_frontalface_alt**.
 8 - Correção Morfológica
 
 9 - Seleção por Cores
+
+## Saídas da Solução Proposta
+
+** Reconhecimento do Objeto Treinado (Símbolo de deficiência física)**
+![ReconhecimentoSimbolo](https://user-images.githubusercontent.com/39313943/101228665-74008300-367b-11eb-8e8b-6257fdd2d055.png)
+
+** Reconhecimento Facial**
+![ReconhecimentoFacial](https://user-images.githubusercontent.com/39313943/101228760-d0fc3900-367b-11eb-849f-69ed3de2b672.png)
+
+** Redimensionamento da Imagem**
+![Redimensionamento](https://user-images.githubusercontent.com/39313943/101228785-e5403600-367b-11eb-8225-5bdb72bdc10f.png)
+
+** Processamento ** 
+![Processamento1](https://user-images.githubusercontent.com/39313943/101228812-0dc83000-367c-11eb-8535-a07d5966306e.png)
+
+![Processamento2](https://user-images.githubusercontent.com/39313943/101228827-1ae51f00-367c-11eb-91ab-056e2bfe1f5f.png)
+
+![Processamento3](https://user-images.githubusercontent.com/39313943/101228800-f5f0ac00-367b-11eb-8633-3cf81b172ac0.png)
+
+** Mudança de Cor **
+![MudancaCores](https://user-images.githubusercontent.com/39313943/101228841-2afcfe80-367c-11eb-923a-00be92346c2a.png)
+
+** Binarização **
+![Binarização](https://user-images.githubusercontent.com/39313943/101228866-41a35580-367c-11eb-867d-2904f7487244.png)
+
+** Morfologia **
+![Morfologia](https://user-images.githubusercontent.com/39313943/101228881-51229e80-367c-11eb-8f39-d610719a63b9.png)
