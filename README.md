@@ -3,26 +3,26 @@
 ## Projeto Integrado de Visão Computacional 
 **Proposta do projeto**
 
-Com o objetivo de contemplar um público específico garantindo a inclusão e acessibilidade, optamamos por trabalhar com o reconhecimento do símbolo de deficiência física
-permitindo maior controle das vagas destinadas a esse público. Além disso, foi aplicado neste projeto técnicas de processamento de imagem afim de obter resultados 
+Com o objetivo de contemplar um público específico garantindo a inclusão e acessibilidade, optamos por trabalhar com o reconhecimento do símbolo de deficiência física
+permitindo maior controle das vagas destinadas a esse público. Além disso, foi aplicado neste projeto diversas técnicas de processamento de imagem afim de obter resultados 
 satisfatórios no reconhecimento do objeto treinado. 
 
 ## Ferramentas Utilizadas
 OpenCV.
 
-CascadeClassifier.
-
 HaarCascade.
 
-DataTime.
+CascadeClassifier.
 
-Modelo de reconhecimento de faces **haarcascade_frontalface_alt**.
+DateTime.
+
+Modelo de reconhecimento de faces: **haarcascade_frontalface_alt**.
 
 ## Etapas de processamento:
 
-1 - Estruturação do dataset de imagens utilizado no treinamento do objeto escolhido. (Símbolo de deficiência física)
+1 - Estruturação do dataset de imagens para utilização no treinamento do objeto escolhido. (Símbolo de deficiência física)
 
-2 - Preparação do conjunto de imagens negativas para garantir resultados satisfatórios após o treinamento.
+2 - Preparação do conjunto de imagens negativas.
 
 3 - Criação das pastas **Positivas, Negativas e Treinamento**.
 
@@ -46,7 +46,7 @@ Modelo de reconhecimento de faces **haarcascade_frontalface_alt**.
 
 3 - Recorte
 
-4 - Mudança de Cores
+4 - Mudanças de Cores
 
 5 - Reconhecimento Facial
 
@@ -80,7 +80,7 @@ Modelo de reconhecimento de faces **haarcascade_frontalface_alt**.
 
 ![Processamento3](https://user-images.githubusercontent.com/39313943/101228800-f5f0ac00-367b-11eb-8633-3cf81b172ac0.png)
 
-**Mudança de Cor**
+**Mudanças de Cores**
 
 ![MudancaCores](https://user-images.githubusercontent.com/39313943/101228841-2afcfe80-367c-11eb-923a-00be92346c2a.png)
 
