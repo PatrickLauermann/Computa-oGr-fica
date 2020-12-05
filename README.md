@@ -4,9 +4,7 @@
 **Proposta do projeto**
 
 Com o objetivo de contemplar um público específico garantindo a inclusão e acessibilidade, optamamos por trabalhar com o reconhecimento do símbolo de deficiência física
-
 permitindo maior controle das vagas destinadas a esse público. Além disso, foi aplicado neste projeto técnicas de processamento de imagem afim de obter resultados 
-
 satisfatórios no reconhecimento do objeto treinado. 
 
 ## Ferramentas Utilizadas
