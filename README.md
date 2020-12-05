@@ -44,9 +44,9 @@ Modelo de reconhecimento de faces **haarcascade_frontalface_alt**.
 
 1 - Processamento
 
-2 - redimensionamento
+2 - Redimensionamento
 
-3 - recorte
+3 - Recorte
 
 4 - Mudança de Cores
 
